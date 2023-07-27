@@ -2,7 +2,7 @@
 ## Installing for Windows
 
 ```
-$ git clone https://github.com/MuhammadAsifJawad/WhatsappWeb-Bomber.git
+$ Download Zip Link: https://github.com/MuhammadAsifJawad/WhatsappWeb-Bomber/
 $ cd WhatsappWeb-Bomber
 $ npm install
 $ node main.js
