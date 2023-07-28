@@ -1,5 +1,5 @@
 # WhatsappWeb-Bomber
-Whatsapp Message Bomber send unlimited message at a time just send specific message to Bomber.
+WhatsappWeb-Bomber send unlimited message at a time on any Phone Number.
 ## What is WhatsappWeb-Bomber?
 WhatsappWeb-Bomber is use whatsapp web technology.It is a way where you can make your WhatsApp account as a whatsapp Message Bomber.<br>
 just sending this type of message from other account on it.
