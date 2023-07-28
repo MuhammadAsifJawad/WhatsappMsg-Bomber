@@ -1,7 +1,7 @@
 # WhatsappWeb-Bomber
 Whatsapp Message Bomber send unlimited message at a time just send specific message to Bomber.
 ## What is WhatsappWeb-Bomber?
-WhatsappWeb-Bomber is use whatsapp web technology.It is a way where you can make your WhatsApp account as a whatsapp Bomber.<br>
+WhatsappWeb-Bomber is use whatsapp web technology.It is a way where you can make your WhatsApp account as a whatsapp Message Bomber.<br>
 just sending this type of message from other account on it.
 ```
 type: Bomb
@@ -10,7 +10,7 @@ message: Hello my Name is Muhammad Asif!
 repeate: 10
 ```
 add phone number without its (+) like +9231XXXXXXXXXX ==> 9231XXXXXXXXXX<br>
-But <b>type: Bomb</b> strict don't change it. 
+You can change these values according to your requirement But <b>type: Bomb</b> strict don't change it. 
 ## This Tool Tested On :
 <ul>
   <li>Windows</li>
