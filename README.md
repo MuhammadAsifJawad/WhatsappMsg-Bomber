@@ -11,7 +11,7 @@ message: Hello my Name is Muhammad Asif!
 repeate: 10
 ```
 add phone number without its (+) like +9231XXXXXXXXXX ==> 9231XXXXXXXXXX<br>
-You can change these values according to your requirement But <b>type: Bomb</b> strict don't change it. 
+You can change these values according to your requirement But <b>type: Bomb</b> strict. Don't change it. 
 ## This Tool Tested On :
 <ul>
   <li>Windows</li>
