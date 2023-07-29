@@ -19,6 +19,18 @@ You can change these values according to your requirement But <b>type: Bomb</b> 
   <li>Parrot Sec OS</li>
 </ul>
 
+## Requirements
+<ul>
+  <li>For Windows</li>
+  <p><h3>Vist & Download nodejs:</h3> https://docs.npmjs.com/downloading-and-installing-node-js-and-npm</p>
+  <li>For Linux</li>
+  ```
+  sudo apt update
+  sudo apt install nodejs
+  sudo apt install npm
+  ```
+</ul>
+
 ## Installing for Windows:
 Run commands in PowerShell 
 ```
