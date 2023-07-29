@@ -15,7 +15,6 @@ You can change these values according to your requirement But <b>type: Bomb</b> 
 <ul>
   <li>Windows</li>
   <li>Kali Linux</li>
-  <li>Termux</li>
   <li>Ubuntu</li>
   <li>Parrot Sec OS</li>
 </ul>
