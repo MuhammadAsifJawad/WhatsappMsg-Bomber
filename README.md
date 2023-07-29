@@ -1,7 +1,7 @@
-# WhatsappWeb-Bomber
-WhatsappWeb-Bomber send unlimited message at a time on any Phone Number.
-## What is WhatsappWeb-Bomber?
-WhatsappWeb-Bomber is use whatsapp web technology.It is a way where you can make your WhatsApp account as a whatsapp Message Bomber.<br>
+# WhatsappMsg-Bomber
+WhatsappMsg-Bomber send unlimited message at a time on any Phone Number.
+## What is WhatsappMsg-Bomber?
+WhatsappMsg-Bomber is use whatsapp web technology.It is a way where you can make your WhatsApp account as a whatsapp Message Bomber.<br>
 just sending this type of message from other account on it.
 ```
 type: Bomb
@@ -39,5 +39,5 @@ npm install
 node main.js
 ```
 ## Disclaimer
-WhatsappWeb-Bomber is just for fun and educational purpose.<br>
+WhatsappMsg-Bomber is just for fun and educational purpose.<br>
 The author and contributors of this tool are not responsible for any misuse or damage caused by this tool.
