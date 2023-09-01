@@ -1,9 +1,11 @@
 const { Client } = require('whatsapp-web.js');
 const qrcode = require('qrcode-terminal');
+
 const client = new Client();
 client.on('qr', (qr) => {
   // Generate and scan this code with your phone
   qrcode.generate(qr, { small: true });
+  // print(qr)
 });
 client.on('ready', (ready) => {
   console.log("Client Ready!");
