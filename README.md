@@ -8,7 +8,7 @@ Then, just sending this type of message from other account on it.
 type: Bomb
 phoneNo: 1235564825 
 message: Hello my Name is Muhammad Asif!
-repeate: 10
+repeat: 10
 ```
 add phone number without its (+) like +9231XXXXXXXXXX ==> 9231XXXXXXXXXX<br>
 You can change these values according to your requirement But <b>type: Bomb</b> strict. Don't change it. 
